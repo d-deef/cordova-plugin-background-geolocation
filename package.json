@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-mauron85-background-geolocation",
+  "name": "cordova-plugin-ddeef-background-geolocation",
   "version": "2.2.5-edit",
   "description": "Cordova Background Geolocation Plugin",
   "cordova": {
-    "id": "cordova-plugin-mauron85-background-geolocation",
+    "id": "cordova-plugin-ddeef-background-geolocation",
     "platforms": [
       "android",
       "ios"
@@ -33,7 +33,7 @@
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/mauron85/cordova-plugin-background-geolocation/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/mauron85/cordova-plugin-background-geolocation#readme"
+  "homepage": ""
 }
